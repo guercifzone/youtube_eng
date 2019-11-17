@@ -1,0 +1,22 @@
+{
+  "name": "youtube.sc",
+  "version": "1.0.0",
+  "description": "youtube search",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guercifzone/youtube.sc.git"
+  },
+  "author": "sadik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guercifzone/youtube.sc/issues"
+  },
+  "homepage": "https://github.com/guercifzone/youtube.sc#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
